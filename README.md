@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------------------
 ## Project2- Job Application 
-   -> it is simple web form ,This Project is just a simple web page it is having 6 to 8 fields of employee  he want to fill the  application form and submit it with his resume. and this project is  Responsive as well.
+   -> it is simple web form ,This Project is just a simple web page it is having 6 to 8 fields of employee  he want to fill the  application form and submit it with his resume. and this project is  Responsive as well. the data is stored in memory not in database.
 -----------------------------------------------------------------------------------------------------
 
 ## Project 3 - Parallax Website 
